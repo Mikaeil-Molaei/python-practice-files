@@ -9,3 +9,4 @@ while age_ali < 30 :
     
     if age_ali == 26 :
             continue
+print("i love programming")
